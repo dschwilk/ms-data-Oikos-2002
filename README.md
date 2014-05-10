@@ -10,5 +10,5 @@ To compile:
 
 ```
 g++ *.cpp -o niche-hike
-'''
+```
 
