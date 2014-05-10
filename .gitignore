@@ -1,0 +1,5 @@
+*.o
+*.cpp.o
+*.gch
+/niche-hike
+/out.txt
